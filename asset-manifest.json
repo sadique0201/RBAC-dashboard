@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RBAC-dashboard/static/css/main.55bb61a7.css",
+    "main.js": "/RBAC-dashboard/static/js/main.c8a21ecf.js",
+    "index.html": "/RBAC-dashboard/index.html",
+    "main.55bb61a7.css.map": "/RBAC-dashboard/static/css/main.55bb61a7.css.map",
+    "main.c8a21ecf.js.map": "/RBAC-dashboard/static/js/main.c8a21ecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55bb61a7.css",
+    "static/js/main.c8a21ecf.js"
+  ]
+}
